@@ -71,45 +71,14 @@ My application’s folder structure must follow the Model-View-Controller paradi
 
 I also need the [dotenv package](https://www.npmjs.com/package/dotenv) to use environment variables, the [bcrypt package](https://www.npmjs.com/package/bcrypt) to hash passwords, and the [express-session](https://www.npmjs.com/package/express-session) and [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize) packages to add authentication.
 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the preceding acceptance criteria plus the following:
-
-    * Application’s folder structure follows the Model-View-Controller paradigm.
-
-    * Uses the [express-handlebars](https://www.npmjs.com/package/express-handlebars) package to implement Handlebars.js for your Views.
-
-    * Application must be deployed to Heroku.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* User experience is intuitive and easy to navigate.
-
-* User interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the homework instructions.
-
  ### Deployment: 
 
 
 * The URL of the functional, deployed application.
 
-
-
 * The URL of the GitHub repository, with a unique name and a readme describing the project: 
 
-https://github.com/kajalpatel20/Tech-Blog
+https://github.com/kajalpatel20/mvc-tech-blog
 
 
 ## License:
@@ -118,8 +87,8 @@ https://github.com/kajalpatel20/Tech-Blog
   [![Github License](https://img.shields.io/badge/license-APACHE 2.0-blue.svg)]
 ## Questions:
 
-The repo for this project can be found here: 
+The repo for this project can be found here
 
-https://github.com/kajalpatel20/Tech-Blog
+https://github.com/kajalpatel20/mvc-tech-blog
 
 For any questions or to report issues, email me at: kajalpatel20@gmail.com
