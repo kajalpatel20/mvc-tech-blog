@@ -76,6 +76,8 @@ I also need the [dotenv package](https://www.npmjs.com/package/dotenv) to use en
 
 * The URL of the functional, deployed application.
 
+https://kaj-mvc-tech-blog.herokuapp.com/
+
 * The URL of the GitHub repository, with a unique name and a readme describing the project: 
 
 https://github.com/kajalpatel20/mvc-tech-blog
