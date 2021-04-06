@@ -4,33 +4,21 @@
   "description": "Model-View-Controller (MVC) Tech Blog",
   "main": "server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "seed": "node seeds/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kajalpatel20/mvc-tech-bloggit"
-  },
   "author": "Kajal Patel",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kajalpatel20/mvc-tech-blogg/issues"
-  },
-  "homepage": "https://github.com/kajalpatel20/mvc-tech-blog#readme",
   "dependencies": {
-    "-": "^0.0.1",
-    "bcrypt": "^5.0.1",
-    "connect-session": "^0.0.1",
-    "connect-session-sequelize": "^7.1.1",
+    "bcrypt": "^5.0.0",
+    "connect-session-sequelize": "^7.0.4",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "express-handlebars": "^5.2.1",
+    "express-handlebars": "^5.2.0",
     "express-session": "^1.17.1",
-    "g": "^2.0.1",
-    "handlebars": "^4.7.7",
-    "mysql": "^2.18.1",
+    "handlebars": "^4.7.6",
     "mysql2": "^2.2.5",
-    "seed": "^0.4.4",
-    "sequelize": "^6.6.2"
+    "sequelize": "^6.3.5"
   }
 }
